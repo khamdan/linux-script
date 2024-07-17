@@ -1,7 +1,7 @@
 # Run command
 
 ```bash
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/khamdan/linux-script/master/run.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/khamdan/linux-script/master/portainer-reset-password/run.sh)"
 ```
 
 # Credit
